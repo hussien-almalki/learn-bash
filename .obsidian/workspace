@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "7765138ac547ad76",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd5c417be5cb182b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learn linux command.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d57b7803ccc14c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbddccc7771ed47a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073e6db6d7d03a9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e5f648f3057932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd7667ba9606204a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09a41f692b46d0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a57230d01abc493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075bf3fdf83fb9e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn linux command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7703947fcb8861e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fd5c417be5cb182b",
+  "lastOpenFiles": [
+    "Learn linux command.md"
+  ]
+}
